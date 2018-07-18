@@ -3,4 +3,4 @@
 
 built with VisualStudio 2017. Temporary run on the Windows.
 
-ready for linux
+ready for linux.
